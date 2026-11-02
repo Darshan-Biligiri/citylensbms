@@ -1,12 +1,6 @@
 # CityLens
 
-important of all it should not look vibe coded
-
-This project was built with [Lovable](https://lovable.dev).
-
-## Build with Lovable
-
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/87974bed-7b05-4480-b0df-1e5b5cdb678c).
+(https://lovable.dev/projects/87974bed-7b05-4480-b0df-1e5b5cdb678c).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
 - **Stay in sync**: every change made in Lovable is committed straight to this repository.
