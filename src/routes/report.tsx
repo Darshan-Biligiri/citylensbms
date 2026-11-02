@@ -36,7 +36,7 @@ function resize(file: File): Promise<string> {
   });
 }
 
-type Errors = Partial<Record<"category" | "title" | "description" | "location" | "photos", string>>;
+type Errors = Partial<Record<"category" | "title" | "description" | "location" | "photos", string | undefined>>;
 
 const field = "w-full rounded-sm border border-input bg-paper px-3 py-2.5 text-sm outline-none transition-colors focus:border-ink aria-[invalid=true]:border-destructive";
 
